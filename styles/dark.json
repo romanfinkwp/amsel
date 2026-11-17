@@ -1,0 +1,136 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.9/theme.json",
+	"version": 3,
+	"title": "Dark",
+	"settings": {
+		"color": {
+			"duotone": [
+				{
+					"colors": [
+						"#FFFFFF",
+						"#191A23"
+					],
+					"name": "Mono",
+					"slug": "mono"
+				}
+			],
+			"gradients": [
+				{
+					"gradient": "linear-gradient(180deg, #191A23 0%, #23242E 100%)",
+					"name": "Soft Light",
+					"slug": "soft-light"
+				},
+				{
+					"gradient": "linear-gradient(180deg, #FFFFFF 0%, #E4E4E7 100%)",
+					"name": "Depth",
+					"slug": "depth"
+				}
+			],
+			"palette": [
+				{
+					"color": "#FFFFFF",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#2E2F3A",
+					"name": "Primary Second",
+					"slug": "primary-accent"
+				},
+				{
+					"color": "#9A9AA3",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#191A23",
+					"name": "Background",
+					"slug": "background"
+				},
+				{
+					"color": "#24252E",
+					"name": "Background Gray",
+					"slug": "background-contrast"
+				},
+				{
+					"color": "#B9FF66",
+					"name": "Accent",
+					"slug": "additional"
+				},
+				{
+					"color": "#3A3B45",
+					"name": "Border",
+					"slug": "accent-blue"
+				},
+				{
+					"color": "#FFFFFA",
+					"name": "Fixed White",
+					"slug": "fixed-white"
+				},
+				{
+					"color": "#1A1B24",
+					"name": "Fixed Dark",
+					"slug": "fixed-dark"
+				}
+			]
+		},
+		"shadow": {
+			"defaultPresets": false,
+			"presets": [
+				{
+					"name": "Soft",
+					"shadow": "0 8px 24px rgba(0,0,0,.45)",
+					"slug": "soft"
+				},
+				{
+					"name": "Subtle",
+					"shadow": "0 1px 3px rgba(0,0,0,.55)",
+					"slug": "subtle"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/button": {
+				"border": {
+					"radius": "14px",
+					"width": "0"
+				},
+				"color": {
+					"background": "var(--wp--preset--color--primary)",
+					"text": "var(--wp--preset--color--background)"
+				},
+				"variations": {
+					"outline": {
+						"border": {
+							"color": "var(--wp--preset--color--primary)",
+							"radius": "14px",
+							"style": "solid",
+							"width": "1px"
+						},
+						"color": {
+							"background": "transparent",
+							"text": "var(--wp--preset--color--primary)"
+						}
+					}
+				}
+			}
+		},
+		"elements": {
+			"button": {
+				"color": {
+					"background": "var(--wp--preset--color--primary)",
+					"text": "var(--wp--preset--color--background)"
+				}
+			},
+			"link": {
+				":hover": {
+					"color": {
+						"text": "var(--wp--preset--color--additional)"
+					}
+				}
+			}
+		}
+	}
+}

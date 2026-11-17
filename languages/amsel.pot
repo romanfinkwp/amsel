@@ -1,0 +1,801 @@
+# Copyright (C) 2026 Roman Fink
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Amsel 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/amsel\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-08-01T18:51:01+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: amsel\n"
+
+#. Theme Name of the theme
+#: style.css
+#: functions.php:76
+msgid "Amsel"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "A modern, minimalist block theme for agencies and creative studios."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Roman Fink"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://wordpress.org/themes/amsel/"
+msgstr ""
+
+#: functions.php:28
+msgid "Accent: Waves"
+msgstr ""
+
+#: functions.php:77
+msgid "Amsel patterns"
+msgstr ""
+
+#: functions.php:92
+msgid "Hi, I'm Roman Fink, the creator of the Amsel theme!"
+msgstr ""
+
+#: functions.php:93
+msgid "Upgrade to Amsel PRO:"
+msgstr ""
+
+#: functions.php:94
+#: functions.php:177
+msgid "Unlock ready-made niche landing pages, exclusive patterns, and premium features to elevate your website."
+msgstr ""
+
+#: functions.php:96
+#: functions.php:179
+msgid "Discover Amsel PRO"
+msgstr ""
+
+#: functions.php:98
+msgid "Support My Work:"
+msgstr ""
+
+#: functions.php:99
+msgid "Need Help? Email me at:"
+msgstr ""
+
+#: functions.php:100
+msgid "Visit My Website:"
+msgstr ""
+
+#: functions.php:101
+msgid "Follow Me on X:"
+msgstr ""
+
+#: functions.php:102
+msgid "Just CLOSE this notice to hide it forever. Thanks for your support!"
+msgstr ""
+
+#: functions.php:139
+#: functions.php:140
+msgid "About Amsel"
+msgstr ""
+
+#: functions.php:162
+msgid "Amsel Theme"
+msgstr ""
+
+#: functions.php:167
+msgid "Hi, I'm Roman Fink"
+msgstr ""
+
+#: functions.php:168
+msgid "The creator of the Amsel theme! With alpaca's help, of course."
+msgstr ""
+
+#: functions.php:170
+msgid "Website"
+msgstr ""
+
+#: functions.php:176
+msgid "Upgrade to Amsel PRO"
+msgstr ""
+
+#: functions.php:184
+msgid "Need Help?"
+msgstr ""
+
+#: functions.php:185
+msgid "Having trouble setting up the theme or need help with your website? Feel free to reach out — I'm happy to help!"
+msgstr ""
+
+#: functions.php:186
+msgid "Email me at:"
+msgstr ""
+
+#: functions.php:190
+msgid "Support My Work"
+msgstr ""
+
+#: functions.php:191
+msgid "If you enjoy the Amsel theme and want to support its development, consider buying me a coffee. Every bit is appreciated!"
+msgstr ""
+
+#: functions.php:193
+msgid "Buy Me a Coffee"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:13
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:17
+msgid "The page you're looking for doesn't exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:22
+msgid "Back to home"
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "archive"
+msgstr ""
+
+#: patterns/archive.php:50
+#: patterns/blog.php:52
+msgid "No posts found yet. Check back soon!"
+msgstr ""
+
+#: patterns/blog.php
+msgctxt "Pattern title"
+msgid "Blog Posts"
+msgstr ""
+
+#: patterns/blog.php
+msgctxt "Pattern description"
+msgid "Latest blog posts section with a heading and a three-column query loop."
+msgstr ""
+
+#: patterns/blog.php:15
+msgid "Latest from Blog"
+msgstr ""
+
+#: patterns/blog.php:20
+msgid "Behind the scenes, tutorials, and industry insights from our artists"
+msgstr ""
+
+#: patterns/blog.php:26
+msgid "View all posts"
+msgstr ""
+
+#: patterns/blog.php:44
+msgid "Read more →"
+msgstr ""
+
+#: patterns/cta.php
+msgctxt "Pattern title"
+msgid "Call to Action"
+msgstr ""
+
+#: patterns/cta.php
+msgctxt "Pattern description"
+msgid "Centered call-to-action card with heading, supporting text and a button."
+msgstr ""
+
+#: patterns/cta.php:12
+msgid "Let's create something extraordinary"
+msgstr ""
+
+#: patterns/cta.php:16
+msgid "Whether it's a cinematic trailer, a product visualization, or a full animated short — tell us your vision and we'll bring it to life in 3D."
+msgstr ""
+
+#: patterns/cta.php:21
+msgid "Get a free estimate"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "footer"
+msgstr ""
+
+#. Translators: 1. is a 'br' HTML element, 2. is a 'br' HTML element
+#: patterns/footer.php:16
+#, php-format
+msgid "We are a 3D design and animation studio creating%1$sstunning visuals, characters, environments,%2$sand motion graphics for brands and entertainment."
+msgstr ""
+
+#: patterns/footer.php:24
+msgid "Navigation"
+msgstr ""
+
+#. Translators: 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element
+#: patterns/footer.php:29
+#, php-format
+msgid "%1$sAbout us%2$s"
+msgstr ""
+
+#. Translators: 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element
+#: patterns/footer.php:34
+#, php-format
+msgid "%1$sServices%2$s"
+msgstr ""
+
+#. Translators: 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element
+#: patterns/footer.php:39
+#, php-format
+msgid "%1$sCase Studies%2$s"
+msgstr ""
+
+#. Translators: 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element
+#: patterns/footer.php:44
+#, php-format
+msgid "%1$sContact%2$s"
+msgstr ""
+
+#: patterns/footer.php:52
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer.php:56
+msgid "1234 Main St, Suite 100"
+msgstr ""
+
+#: patterns/footer.php:60
+msgid "New York, NY 10001"
+msgstr ""
+
+#. Translators: 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element
+#: patterns/footer.php:65
+#, php-format
+msgid "%1$sinfo@example.com%2$s"
+msgstr ""
+
+#: patterns/footer.php:73
+msgid "Follow us"
+msgstr ""
+
+#: patterns/footer.php:77
+msgid "LinkedIn"
+msgstr ""
+
+#: patterns/footer.php:81
+msgid "Twitter"
+msgstr ""
+
+#: patterns/footer.php:85
+msgid "Instagram"
+msgstr ""
+
+#. Translators: 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element
+#: patterns/footer.php:98
+#, php-format
+msgid "Amsel theme by %1$sFink Themes%2$s"
+msgstr ""
+
+#. Translators: 1. is the start of a 'a' HTML element, 2. is the end of a 'a' HTML element
+#: patterns/footer.php:103
+#, php-format
+msgid "Powered by %1$sWordPress%2$s"
+msgstr ""
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "front-page"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "header"
+msgstr ""
+
+#: patterns/header.php:30
+msgid "Request a quote"
+msgstr ""
+
+#: patterns/hero.php
+msgctxt "Pattern title"
+msgid "Hero"
+msgstr ""
+
+#: patterns/hero.php
+msgctxt "Pattern description"
+msgid "Hero section with headline, intro, key stats and call-to-action buttons next to an image."
+msgstr ""
+
+#. Translators: 1. is a 'br' HTML element, 2. is a 'br' HTML element
+#: patterns/hero.php:14
+#, php-format
+msgid "Bringing ideas%1$sto life through%2$s3D and motion"
+msgstr ""
+
+#. Translators: 1. is a 'br' HTML element, 2. is a 'br' HTML element
+#: patterns/hero.php:19
+#, php-format
+msgid "We are a 3D design and animation studio creating %1$sstunning visuals, characters, environments, %2$sand motion graphics for brands and entertainment."
+msgstr ""
+
+#: patterns/hero.php:25
+msgid "200+"
+msgstr ""
+
+#: patterns/hero.php:29
+msgid "Projects Rendered"
+msgstr ""
+
+#: patterns/hero.php:35
+msgid "30+"
+msgstr ""
+
+#: patterns/hero.php:39
+msgid "3D Artists on Team"
+msgstr ""
+
+#: patterns/hero.php:45
+msgid "10+"
+msgstr ""
+
+#: patterns/hero.php:49
+msgid "Years in CG Industry"
+msgstr ""
+
+#: patterns/hero.php:56
+msgid "Start your project"
+msgstr ""
+
+#: patterns/hero.php:60
+msgid "Call Us"
+msgstr ""
+
+#: patterns/portfolio.php
+msgctxt "Pattern title"
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/portfolio.php
+msgctxt "Pattern description"
+msgid "Portfolio section with a featured project and a grid of project cards."
+msgstr ""
+
+#: patterns/portfolio.php:15
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/portfolio.php:20
+msgid "Selected projects from our 3D and animation portfolio"
+msgstr ""
+
+#: patterns/portfolio.php:26
+msgid "View all work"
+msgstr ""
+
+#: patterns/portfolio.php:33
+msgid "3D Robot Character — Cinematic Game Trailer"
+msgstr ""
+
+#: patterns/portfolio.php:40
+msgid "Featured Project"
+msgstr ""
+
+#: patterns/portfolio.php:46
+msgid "Unreal Engine 5"
+msgstr ""
+
+#: patterns/portfolio.php:52
+msgid "Character Design"
+msgstr ""
+
+#: patterns/portfolio.php:58
+msgid "Cyber Nexus — Cinematic Game Trailer"
+msgstr ""
+
+#: patterns/portfolio.php:62
+msgid "Full CG cinematic for an indie sci-fi RPG. Character modeling, rigging, animation, environment design, VFX simulations, and final compositing — all rendered in real-time with Unreal Engine 5."
+msgstr ""
+
+#: patterns/portfolio.php:66
+msgid "View case study →"
+msgstr ""
+
+#: patterns/portfolio.php:75
+msgid "3D Product Visualization — Automotive"
+msgstr ""
+
+#: patterns/portfolio.php:82
+msgid "Product Viz"
+msgstr ""
+
+#: patterns/portfolio.php:88
+msgid "Blender"
+msgstr ""
+
+#: patterns/portfolio.php:94
+msgid "Automotive 3D Visualization"
+msgstr ""
+
+#: patterns/portfolio.php:98
+msgid "Photorealistic car renders for an automotive brand — studio lighting, material shaders, and turntable animation."
+msgstr ""
+
+#: patterns/portfolio.php:102
+#: patterns/portfolio.php:138
+#: patterns/portfolio.php:174
+#: patterns/portfolio.php:212
+#: patterns/portfolio.php:248
+msgid "View project →"
+msgstr ""
+
+#: patterns/portfolio.php:111
+msgid "Architectural Visualization — Interior CGI"
+msgstr ""
+
+#: patterns/portfolio.php:118
+#: patterns/portfolio.php:228
+msgid "Arch Viz"
+msgstr ""
+
+#: patterns/portfolio.php:124
+msgid "3ds Max + Corona"
+msgstr ""
+
+#: patterns/portfolio.php:130
+msgid "Luxury Villa — Interior CGI"
+msgstr ""
+
+#: patterns/portfolio.php:134
+msgid "Architectural visualization for a real estate developer — photorealistic interiors, natural lighting, and material accuracy."
+msgstr ""
+
+#: patterns/portfolio.php:147
+msgid "Abstract 3D Sculpture — Motion Graphics"
+msgstr ""
+
+#: patterns/portfolio.php:154
+msgid "Motion Design"
+msgstr ""
+
+#: patterns/portfolio.php:160
+msgid "Houdini"
+msgstr ""
+
+#: patterns/portfolio.php:166
+msgid "Abstract Forms — Broadcast Opener"
+msgstr ""
+
+#: patterns/portfolio.php:170
+msgid "Procedural 3D sculptures and parametric animation for a TV network broadcast package and ident sequence."
+msgstr ""
+
+#: patterns/portfolio.php:185
+msgid "Fluid Simulation — Abstract Art Direction"
+msgstr ""
+
+#: patterns/portfolio.php:192
+msgid "VFX"
+msgstr ""
+
+#: patterns/portfolio.php:198
+msgid "Houdini + Nuke"
+msgstr ""
+
+#: patterns/portfolio.php:204
+msgid "Fluid Worlds — Music Video VFX"
+msgstr ""
+
+#: patterns/portfolio.php:208
+msgid "Fluid simulations, particle systems, and abstract art direction for a music video — blending CG elements with live-action footage."
+msgstr ""
+
+#: patterns/portfolio.php:221
+msgid "Architectural Visualization — Exterior CGI"
+msgstr ""
+
+#: patterns/portfolio.php:234
+msgid "3ds Max + V-Ray"
+msgstr ""
+
+#: patterns/portfolio.php:240
+msgid "Coastal Retreat — Exterior Rendering"
+msgstr ""
+
+#: patterns/portfolio.php:244
+msgid "Photorealistic exterior CGI for a luxury real estate project — environment modeling, vegetation, water simulation, and golden-hour lighting."
+msgstr ""
+
+#: patterns/quote.php
+msgctxt "Pattern title"
+msgid "Quote"
+msgstr ""
+
+#: patterns/quote.php
+msgctxt "Pattern description"
+msgid "Full-width accent banner with a studio philosophy quote and attribution."
+msgstr ""
+
+#: patterns/quote.php:11
+msgid "We don't just render images — we build entire worlds, frame by frame, polygon by polygon."
+msgstr ""
+
+#: patterns/quote.php:15
+msgid "— Studio philosophy since 2015"
+msgstr ""
+
+#: patterns/services.php
+msgctxt "Pattern title"
+msgid "Services"
+msgstr ""
+
+#: patterns/services.php
+msgctxt "Pattern description"
+msgid "Services section with a heading badge and a grid of service cards."
+msgstr ""
+
+#: patterns/services.php:14
+msgid "Services"
+msgstr ""
+
+#: patterns/services.php:19
+msgid "From concept art to final render — we cover every stage of the 3D production pipeline."
+msgstr ""
+
+#: patterns/services.php:30
+msgid "3D Modeling &amp; Sculpting"
+msgstr ""
+
+#: patterns/services.php:36
+msgid "High-poly and game-ready models, organic sculpts, hard-surface assets — built for any pipeline and any engine."
+msgstr ""
+
+#: patterns/services.php:41
+#: patterns/services.php:63
+#: patterns/services.php:87
+#: patterns/services.php:109
+msgid "Learn more →"
+msgstr ""
+
+#: patterns/services.php:52
+msgid "Character Animation"
+msgstr ""
+
+#: patterns/services.php:58
+msgid "Believable motion for characters, creatures, and mechs — from keyframe animation to motion capture cleanup."
+msgstr ""
+
+#: patterns/services.php:76
+msgid "Visual Effects &amp; Compositing"
+msgstr ""
+
+#: patterns/services.php:82
+msgid "Photorealistic VFX, CG integration into live-action footage, particle simulations, and multi-pass compositing."
+msgstr ""
+
+#: patterns/services.php:98
+msgid "Motion Design &amp; Explainers"
+msgstr ""
+
+#: patterns/services.php:104
+msgid "Animated logos, product explainers, broadcast graphics, and social media content that grabs attention."
+msgstr ""
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "single"
+msgstr ""
+
+#: patterns/single.php:15
+msgid "·"
+msgstr ""
+
+#: patterns/single.php:37
+msgid "Related Posts"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Duotone name"
+msgid "Mono"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Gradient name"
+msgid "Soft Light"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Gradient name"
+msgid "Depth"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Primary Second"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Background Gray"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Border"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Fixed White"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Color name"
+msgid "Fixed Dark"
+msgstr ""
+
+#: theme.json
+msgctxt "Aspect ratio name"
+msgid "1:1"
+msgstr ""
+
+#: theme.json
+msgctxt "Aspect ratio name"
+msgid "4:3"
+msgstr ""
+
+#: theme.json
+msgctxt "Aspect ratio name"
+msgid "16:9"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Shadow name"
+msgid "Soft"
+msgstr ""
+
+#: theme.json
+#: styles/dark.json
+msgctxt "Shadow name"
+msgid "Subtle"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "7"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "8"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Martian Grotesk"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Display"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr ""

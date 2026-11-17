@@ -1,0 +1,115 @@
+.amsel-about-wrap h1 {
+	font-size: 28px;
+	font-weight: 700;
+	margin-bottom: 24px;
+}
+
+.amsel-version {
+	font-size: 14px;
+	font-weight: 400;
+	color: #666;
+	vertical-align: middle;
+}
+
+.amsel-about-columns {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 24px;
+	max-width: 900px;
+}
+
+@media (max-width: 782px) {
+	.amsel-about-columns {
+		grid-template-columns: 1fr;
+	}
+}
+
+.amsel-about-card {
+	background: #fff;
+	border: 1px solid #ddd;
+	border-radius: 14px;
+	padding: 28px;
+}
+
+.amsel-about-author {
+	text-align: center;
+}
+
+.amsel-author-photo {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	object-fit: cover;
+	margin-bottom: 16px;
+}
+
+.amsel-about-author h2 {
+	font-size: 20px;
+	margin: 0 0 8px;
+}
+
+.amsel-about-author p {
+	color: #555;
+	margin: 0 0 20px;
+}
+
+.amsel-about-links {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+}
+
+.amsel-about-links li {
+	padding: 8px 0;
+	border-top: 1px solid #eee;
+}
+
+.amsel-about-links li:last-child {
+	border-bottom: 1px solid #eee;
+}
+
+.amsel-about-links a {
+	text-decoration: none;
+}
+
+.amsel-about-card h2 {
+	font-size: 20px;
+	margin: 0 0 12px;
+}
+
+.amsel-about-card p {
+	color: #555;
+	margin: 0 0 16px;
+	line-height: 1.6;
+}
+
+.amsel-about-pro p:last-of-type {
+	margin-bottom: 24px;
+}
+
+.amsel-about-btn {
+	display: inline-block;
+	background-color: #191A23;
+	color: #fff !important;
+	padding: 12px 24px;
+	text-decoration: none !important;
+	border-radius: 14px;
+	font-weight: 600;
+	transition: background-color 0.2s;
+}
+
+.amsel-about-btn:hover {
+	background-color: #292A32;
+}
+
+.amsel-about-btn-outline {
+	background-color: #fff !important;
+	color: #191A23 !important;
+	border: 2px solid #191A23;
+}
+
+.amsel-about-btn-outline:hover {
+	background-color: #191A23 !important;
+	color: #fff !important;
+}
